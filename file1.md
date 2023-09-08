@@ -5,3 +5,7 @@
 ![Alt text](image.png)
 
 Зато добавили картинку
+
+![Alt text](image-1.png)
+
+И ещё картинку
